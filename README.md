@@ -20,7 +20,6 @@ Jazmin Nova
 
 ## License
 
-```
 MIT License
 
 ## Contact
@@ -28,4 +27,7 @@ MIT License
 Jazmin Nova: jazminnova@gmail.com
 
 Github Repositiory: https://github.com/jazminnova/Social-network-api
+
+```
+
 ```
