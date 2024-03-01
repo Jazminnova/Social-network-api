@@ -1,6 +1,6 @@
 const seedThoughts = [
   {
-    thoughtText: "This is a sample thought about something interesting.",
+    thoughtText: "This is a sample thought.",
     username: "josh",
     reactions: [
       {
@@ -14,7 +14,7 @@ const seedThoughts = [
     ],
   },
   {
-    thoughtText: "This is a sample thought about something else interesting.",
+    thoughtText: "This is a sample thought.",
     username: "Squanchers",
     reactions: [
       {
@@ -28,7 +28,7 @@ const seedThoughts = [
     ],
   },
   {
-    thoughtText: "This is a sample thought about something else interesting.",
+    thoughtText: "This is a sample thought .",
     username: "Jacobhexa",
     reactions: [
       {
@@ -42,7 +42,7 @@ const seedThoughts = [
     ],
   },
   {
-    thoughtText: "This is a sample thought about something else interesting.",
+    thoughtText: "This is a sample thought .",
     username: "Jazz",
     reactions: [
       {
@@ -56,7 +56,7 @@ const seedThoughts = [
     ],
   },
   {
-    thoughtText: "This is a sample thought about something else interesting.",
+    thoughtText: "This is a sample thought .",
     username: "squanchers",
     reactions: [
       {
@@ -70,7 +70,7 @@ const seedThoughts = [
     ],
   },
   {
-    thoughtText: "This is a sample thought about something else interesting.",
+    thoughtText: "This is a sample thought .",
     username: "jacobhexa",
     reactions: [
       {
@@ -84,7 +84,7 @@ const seedThoughts = [
     ],
   },
   {
-    thoughtText: "This is a sample thought about something else interesting.",
+    thoughtText: "This is a sample thought .",
     username: "josh",
     reactions: [
       {
@@ -98,7 +98,7 @@ const seedThoughts = [
     ],
   },
   {
-    thoughtText: "This is a sample thought about something else interesting.",
+    thoughtText: "This is a sample thought .",
     username: "jazz",
     reactions: [
       {
