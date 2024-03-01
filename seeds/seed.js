@@ -5,7 +5,7 @@ const seedUsers = require("./user-seeds");
 const seedThoughts = require("./thought-seeds");
 
 mongoose
-  .connect("mongodb://127.0.0.1:27017/social-media-backend", {
+  .connect("mongodb://127.0.0.1:27017/social-network", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
